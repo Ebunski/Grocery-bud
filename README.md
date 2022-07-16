@@ -17,6 +17,7 @@ Manages your grocery list
 Features:
 Allows for C.R.U.D operations.
 
+
 ### The challenge
 
 Users should be able to:
@@ -49,8 +50,10 @@ Users should be able to:
 ### What I learnt
 
 1. React:
-
-- 
+- Function to get data from local storage
+- State as an object and using function to handle multiple state changes to avoid repetition.
+- Update
+- Using date as unique id - can also use math random and external e.g nanoid
   
   Overall it was a very wonderful project.
 
